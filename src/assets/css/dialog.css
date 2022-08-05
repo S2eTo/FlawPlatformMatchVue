@@ -1,0 +1,35 @@
+.el-dialog {
+    /*background: url(../min_box.png) 0 0 / 100% 100%;*/
+    background: #000a27cf;
+    border: 1px solid #037ac2;
+    border-radius: 0;
+    color: #fff;
+}
+
+.el-dialog__header {
+    padding: 1.3vw 1.3vw 0.65vw;
+}
+
+.el-dialog__footer {
+    padding: 0.65vw 1.3vw 1.3vw;
+}
+
+.el-dialog__title {
+    color: #ffff;
+    font-size: 1.17vw;
+}
+
+.el-dialog__body span {
+    color: #ffff;
+    padding: 1.95vw 1.3vw;
+    font-size: .91vw;
+}
+
+.el-dialog .el-button span {
+    font-size: .9vw !important;
+    padding: .8vw 1.2vw;
+}
+
+.el-dialog .el-button.el-button--default span {
+    color: #606266;
+}

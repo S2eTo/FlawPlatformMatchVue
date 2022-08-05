@@ -1,0 +1,20 @@
+.el-popover {
+    font-size: .9vw;
+    background: #000a27cf;
+    border: 1px solid #037ac2;
+    color: #ffffff;
+    border-radius: 0;
+}
+
+.el-popover .el-button {
+    font-size: .9vw !important;
+    padding: .4vw .8vw;
+}
+
+.el-popover .el-button+.el-button {
+    margin-left: .2vw;
+}
+
+.el-popconfirm__action {
+    margin-top: .5vw;
+}

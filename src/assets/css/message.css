@@ -1,0 +1,22 @@
+.el-message {
+    padding: 1vw 1vw 1vw 1.1vw !important;
+}
+
+.el-message .el-message__content{
+    font-size: .9vw;
+}
+
+.el-message--success {
+    background: #000a27cf;
+    border: 1px solid #125496;
+}
+
+.el-message--error {
+    background: #000a27cf;
+    border: 1px solid #125496;
+}
+
+.el-message--warning {
+    background: #000a27cf;
+    border: 1px solid #125496;
+}

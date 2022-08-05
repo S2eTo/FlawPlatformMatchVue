@@ -1,0 +1,20 @@
+@font-face{
+    font-family: 'PingFang-SC-Medium';
+    src: url('PingFang Medium.ttf');
+}
+
+@font-face{
+    font-family: 'PingFang-SC-Bold';
+    src: url('PingFang Bold.ttf');
+}
+
+@font-face{
+    font-family: DINPro-Bold;
+    src: url('DIN-Bold.otf');
+}
+
+
+@font-face{
+    font-family: 'PingFang-SC-Heavy';
+    src: url('PingFang Heavy.ttf');
+}

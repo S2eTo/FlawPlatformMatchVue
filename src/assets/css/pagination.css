@@ -1,0 +1,136 @@
+.el-pagination *{
+    vertical-align: middle !important;
+}
+
+.el-pagination .el-pager li,
+.el-pagination .btn-prev,
+.el-pagination button:disabled,
+.el-pagination .btn-next,
+.el-pagination .el-input__inner {
+    color: #97feff;
+    background: none;
+    border: .11vw solid #3275c4;
+    border-radius: 0;
+    font-size: .8vw;
+}
+
+.el-pagination .el-pager li.active {
+    color: #ffffff;
+    background: #0090fd;
+    border: .11vw solid #0090fd;
+}
+
+.el-pagination .el-pagination__total,
+.el-pagination .el-pagination__jump {
+    color: #97feff;
+}
+
+.el-pagination .el-input__inner {
+    /*background: url("../../assets/pagination/item.png") 0 0 / 100% 100%;*/
+    background: none;
+    border: .11vw solid #3275c4;
+    border-radius: 0;
+    color: #97feff;
+}
+
+.el-pagination .el-pager {
+    display: inline-block;
+    list-style: none;
+}
+
+.el-pagination .el-pager li {
+    padding: .3vw .9vw;
+    color: #97feff;
+    cursor: pointer;
+    border-right: none !important;
+}
+
+.el-pagination .el-pager li:last-child {
+    border-right: .11vw solid #3275c4 !important;
+}
+
+.el-pagination .el-pager li.active+li {
+    border-left: .11vw solid #3275c4 !important;
+}
+
+.el-pagination .btn-next .el-icon, .el-pagination .btn-prev .el-icon {
+    font-size: .8vw;
+    padding: 0.43vw .5vw;
+}
+
+.el-pagination .btn-prev,
+.el-pagination .btn-next {
+    padding: 0;
+}
+
+.el-pagination button {
+    padding: .3vw .7vw;
+    border: none;
+    margin: 0 .5vw;
+    cursor: pointer;
+}
+
+.el-pagination .el-pagination__editor {
+    display: inline-block;
+}
+
+.el-pagination .el-input__inner {
+    line-height: 2vw;
+    min-width: 4vw;
+    text-align: center;
+    margin: 0 .5vw;
+}
+
+.el-pagination .el-input__inner::-webkit-outer-spin-button,
+.el-pagination .el-input__inner::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+}
+.el-pagination .el-input__inner[type="number"]{
+    -moz-appearance: textfield;
+}
+
+.el-pagination__total,
+.el-pagination__jump {
+    font-size: .85vw;
+}
+
+.el-pagination__jump {
+    margin-left: .5vw;
+}
+
+.el-pagination button,
+.el-pagination span:not([class*=suffix]) {
+    font-size: .8vw;
+    min-width: auto;
+    height: auto;
+    line-height: normal;
+    padding: .45vw;
+}
+
+.el-pagination button {
+    margin: 0 1vw !important;
+}
+
+.el-pagination button, .el-pagination span:not([class*=suffix]) {
+    padding: 0;
+}
+
+.el-pager li {
+    min-width: auto;
+    height: auto;
+    line-height: normal;
+}
+
+.el-pagination__editor.el-input,
+.el-pagination__editor.el-input .el-input__inner {
+    width: auto;
+}
+
+.el-pagination__editor.el-input .el-input__inner {
+    /*height: auto;*/
+    padding: 0.25vw 0;
+}
+
+.el-pagination__editor {
+    height: auto;
+}
