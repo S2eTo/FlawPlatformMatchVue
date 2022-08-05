@@ -21,7 +21,7 @@ npm install
 
 *src/common/http-service.js* 中修改后端的地址。
 
-![image-20220214140522576](image-20220214140522576.png)
+![image-20220214140522576](./image-20220214140522576.png)
 
 #### 2.2.1 修改后端API 地址
 
