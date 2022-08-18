@@ -1,6 +1,6 @@
 # FlawPlatform 漏洞靶场比赛专版 前端
 
-交流群 [FlawPlatform 漏洞平台交流: 915098601](https://jq.qq.com/?_wv=1027&k=89lUa1mu)
+功能定制，商务合作，问题/交流群: [512897146](https://jq.qq.com/?_wv=1027&k=V2mVBvL3)
 
 特别说明, 本作品 前端[FlawPlatformMatchVue](https://github.com/S2eTo/FlawPlatformMatchVue), 后端[FlawPlatformMatch](https://github.com/S2eTo/FlawPlatformMatch)可开源使用，但必须免费提供使用。用于任何形式的商务/盈利活动，请提前联系交流群群主。
 
